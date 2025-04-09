@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: rgb(100, 100, 100);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#root{
+    background-color: azure;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button{
+    margin-right: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
