@@ -684,51 +684,96 @@ var _s = $RefreshSig$();
 function Counter() {
     _s();
     const [count, setCount] = (0, _react.useState)(0);
+    const [number, setNumber] = (0, _react.useState)("");
+    function Fib(number) {
+        if (number <= 1) return number;
+        return Fib(number - 1) + Fib(number - 2);
+    }
+    const result = (0, _react.useMemo)(()=>Fib(number), [
+        number
+    ]);
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
         children: [
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "count",
                 children: [
-                    "Counter is:",
-                    count
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+                        children: [
+                            "Counter is:",
+                            count
+                        ]
+                    }, void 0, true, {
+                        fileName: "counter.js",
+                        lineNumber: 26,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                        onClick: ()=>setCount(count + 1),
+                        children: "Increament"
+                    }, void 0, false, {
+                        fileName: "counter.js",
+                        lineNumber: 27,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                        onClick: ()=>setCount(count - 1),
+                        children: "Decreament"
+                    }, void 0, false, {
+                        fileName: "counter.js",
+                        lineNumber: 28,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                        onClick: ()=>setCount(0),
+                        children: "Reset"
+                    }, void 0, false, {
+                        fileName: "counter.js",
+                        lineNumber: 29,
+                        columnNumber: 9
+                    }, this)
                 ]
             }, void 0, true, {
                 fileName: "counter.js",
-                lineNumber: 12,
+                lineNumber: 25,
                 columnNumber: 9
             }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                onClick: ()=>setCount(count + 1),
-                children: "Increament"
-            }, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "fibb",
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+                        children: [
+                            "Fib is:",
+                            result
+                        ]
+                    }, void 0, true, {
+                        fileName: "counter.js",
+                        lineNumber: 33,
+                        columnNumber: 11
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
+                        type: "number",
+                        value: number,
+                        onChange: (e)=>setNumber(e.target.value)
+                    }, void 0, false, {
+                        fileName: "counter.js",
+                        lineNumber: 34,
+                        columnNumber: 11
+                    }, this)
+                ]
+            }, void 0, true, {
                 fileName: "counter.js",
-                lineNumber: 13,
-                columnNumber: 9
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                onClick: ()=>setCount(count - 1),
-                children: "Decreament"
-            }, void 0, false, {
-                fileName: "counter.js",
-                lineNumber: 14,
-                columnNumber: 9
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                onClick: ()=>setCount(0),
-                children: "Reset"
-            }, void 0, false, {
-                fileName: "counter.js",
-                lineNumber: 15,
+                lineNumber: 32,
                 columnNumber: 9
             }, this)
         ]
     }, void 0, true);
 }
-_s(Counter, "RpyMek13f3iNeQO0Gs9DEYmHKoY=");
+_s(Counter, "Pz/Fx7kG3HR9+Y81E+Sd19q4VBw=");
 _c = Counter;
 const root = (0, _clientDefault.default).createRoot(document.getElementById('root'));
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Counter, {}, void 0, false, {
     fileName: "counter.js",
-    lineNumber: 22,
+    lineNumber: 43,
     columnNumber: 13
 }, undefined));
 var _c;

@@ -1,22 +1,22 @@
-4340
+4344
 112C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts133886646200322682 0
 124C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133886646188941418 0
 100C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@swc\helpers\_\_ts_decorate133886647962658074 1
 107C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\cosmiconfig\dist\getDirectory.d.ts133886646200284103 0
-70C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\counter.js133886655054116627 0
+70C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\counter.js133888454846435840 0
 104C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\caniuse-lite\data\regions\VE.js133886646216856511 0
 81C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\get-port133886647849577600 1
 82C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\env-paths133886647848863994 1
 90C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@msgpackr-extract133886650313753691 1
 109C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@swc\helpers\esm\_new_arrow_check.js133886646204473728 0
-72C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\package.json133886647172092349 0
+72C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\package.json133888453506639023 0
 79C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@lezer133886647861754738 1
-64C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist133886655055016841 1
+64C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist133888455612959946 1
 88C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\chalk\readme.md133886646192288628 0
 108C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\htmlparser2\lib\WritableStream.d.ts133886646199428507 0
 83C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\json5\dist133886647884351145 1
 101C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\entities\lib\esm\escape.d.ts133886646201193676 0
-70C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\index.html133886637250920581 0
+70C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\index.html133886677686283126 0
 106C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@parcel\transformer-image\LICENSE133886646187273575 0
 125C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\posthtml\node_modules\domutils\lib\querying.d.ts.map133886646195986577 0
 101C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@parcel\transformer-html\src133886647915608112 1
@@ -26,7 +26,7 @@
 115C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\utility-types\dist\aliases-and-guards.d.ts133886646196102312 0
 129C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@swc\helpers\_\_check_private_redeclaration\package.json133886646206040390 0
 94C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\browserslist\error.js133886646189575923 0
-69C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\style.css133886654562934294 0
+69C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\style.css133886677775546993 0
 137C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-html.js133886646191090853 0
 95C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\update-browserslist-db133886647860221200 1
 104C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\caniuse-lite\data\regions\DE.js133886646207613257 0
@@ -861,7 +861,7 @@
 99C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\entities\lib\decode.js.map133886646199229371 0
 124C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\caniuse-lite\data\features\css-container-queries.js133886646204399828 0
 118C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\scheduler\cjs\scheduler.native.development.js133886647170608183 0
-89C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\counter.3a01df49.css.map133886654551152039 0
+89C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\counter.3a01df49.css.map133888455595079750 0
 112C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@swc\helpers\_\_tagged_template_literal133886647961068233 1
 104C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\semver\ranges\max-satisfying.js133886646197886233 0
 105C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\htmlnano\lib\presets\ampSafe.mjs133886646201899855 0
@@ -1961,7 +1961,7 @@
 100C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\lines-and-columns\README.md133886646189676168 0
 133C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133886646203181484 0
 103C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@parcel\runtime-js\lib\helpers133886647936342665 1
-88C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\counter.2006fa85.js.map133886655055016841 0
+88C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\counter.2006fa85.js.map133888455595647703 0
 120C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\entities\lib\esm\generated\encode-html.d.ts.map133886646199392604 0
 108C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\lightningcss-win32-x64-msvc\LICENSE133886646187173446 0
 113C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\lightningcss-win32-x64-msvc\package.json133886646187847641 0
@@ -2344,7 +2344,7 @@
 110C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\caniuse-lite\data\features\pointer.js133886646213891370 0
 123C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\entities\lib\esm\generated\decode-data-html.js.map133886646198231245 0
 122C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\entities\lib\esm\generated\decode-data-xml.js.map133886646198741374 0
-84C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\counter.2006fa85.js133886655054993094 0
+84C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\counter.2006fa85.js133888455595547855 0
 116C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\entities\lib\esm\generated\encode-html.d.ts133886646200988393 0
 107C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\caniuse-lite\data\features\avif.js133886646200144177 0
 88C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\detect-libc\bin133886647880606027 1
@@ -3411,7 +3411,7 @@
 107C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@parcel\packager-js\src\helpers.js133886646195308793 0
 117C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@swc\helpers\_\_new_arrow_check\package.json133886646207566834 0
 105C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@swc\helpers\_\_jsx\package.json133886646207546685 0
-75C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\index.html133886652132626254 0
+75C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\index.html133888455594962138 0
 120C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@swc\helpers\_\_is_native_function\package.json133886646207403955 0
 126C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@swc\helpers\_\_interop_require_wildcard\package.json133886646207383832 0
 97C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@swc\core\postinstall.js133886646193439275 0
@@ -3729,6 +3729,7 @@
 99C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@parcel\workers\lib\bus.js133886646190155269 0
 122C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@parcel\rust\parcel-node-bindings.darwin-x64.node133886646211015955 0
 101C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@parcel\workers\lib\child.js133886646192412878 0
+85C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\counter.dbaf496c.css133888455344036543 0
 115C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@parcel\workers\lib\core-worker.browser.js133886646194813724 0
 116C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@parcel\runtime-service-worker\package.json133886646190135097 0
 107C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\@parcel\workers\lib\core-worker.js133886646195273314 0
@@ -4338,4 +4339,7 @@
 88C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\.bin\semver.ps1133886646223583058 0
 100C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\.bin\update-browserslist-db133886646223583058 0
 104C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\node_modules\.bin\update-browserslist-db.ps1133886646223583058 0
-85C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\counter.3a01df49.css133886654551123705 0
+85C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\counter.3a01df49.css133888455594633374 0
+84C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\counter.92e93c14.js133888455344076008 0
+88C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\counter.92e93c14.js.map133888455344662627 0
+89C:\Users\jiten\OneDrive\Desktop\Nexus\React\project\counter\dist\counter.dbaf496c.css.map133888455344642581 0
